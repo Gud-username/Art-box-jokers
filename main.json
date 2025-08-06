@@ -8,7 +8,7 @@
     "description": "Adds the option to make all jokers look like colectables from art box",
     "main_file": "main.lua",
     "badge_colour": "1F2E3D",
-    "version": "1.2.0",
+    "version": "0.1",
     "dependencies": [
         "malverk"
     ]
