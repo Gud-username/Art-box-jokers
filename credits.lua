@@ -12,14 +12,14 @@ SMODS.current_mod.extra_tabs = function()
                   {
                     n = G.UIT.R,
                     nodes = {
-                      { n = G.UIT.T, config = { text = "Developer", colour = G.C.CHIPS, scale = 0.75 } },
+                      { n = G.UIT.T, config = { text = "Developer and main artist", colour = G.C.CHIPS, scale = 0.75 } },
                     }
                   },
                   {
                     n = G.UIT.R,
                     config = { align = 'cm', minh = 0.25 },
                     nodes = {
-                      { n = G.UIT.T, config = { text = "Smol (kinda)", colour = G.C.PURPLE, scale = 0.4 } }
+                      { n = G.UIT.T, config = { text = "Smol (somehow)", colour = G.C.PURPLE, scale = 0.4 } }
                     }
                   },
                 }
@@ -31,7 +31,7 @@ SMODS.current_mod.extra_tabs = function()
               {
                 n = G.UIT.R,
                 nodes = {
-                  { n = G.UIT.T, config = { text = "Artists", colour = G.C.CHIPS, scale = 0.75 } },
+                  { n = G.UIT.T, config = { text = "Other artists", colour = G.C.CHIPS, scale = 0.75 } },
                 }
               },
               {
